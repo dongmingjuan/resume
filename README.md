@@ -5,7 +5,7 @@
 * 13320529961/DL88250@gmail.com
 * 工作年限：8 年
 * 个人博客：http://88250.b3log.org 
-* 职业专长：系统设计与开发，Java/golang
+* 职业专长：系统设计与开发，Java/golang/Linux
 
 ## 工作经历
 
