@@ -32,7 +32,6 @@
 * [年终总结](http://88250.b3log.org/tags/Annual%20Summary)
 * [CSDN 博客专家](http://blog.csdn.net/DL88250)
 * 参与书籍《JavaSE 实践教程》写作，电子工业出版社出版
-* NetBeans 博客大赛全球前十名 
 * 参与 Spring 参考手册、OSGi 技术规范翻译 
 * NetBeans 中文时讯翻译项目负责人，NetBeans Dream Team 成员
 * Apache Software Foundation Committer
